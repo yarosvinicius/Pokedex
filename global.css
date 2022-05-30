@@ -1,0 +1,13 @@
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #DADFE8;
+}
+
+.pokedex{
+    display: flex;
+    gap:30px;
+    padding: 30px;
+}
